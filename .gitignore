@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw Data (too large for GitHub, user must download from Kaggle)
+data/raw/
+
+# OS generated files
+.DS_Store
+Thumbs.db
